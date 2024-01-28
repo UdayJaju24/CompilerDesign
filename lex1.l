@@ -1,3 +1,4 @@
+
 %{
 #include<stdio.h>
 int sc=0,wc=0,lc=0,cc=0;
