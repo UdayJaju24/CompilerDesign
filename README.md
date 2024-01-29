@@ -7,6 +7,7 @@ This repository aims to build fundamental understanding of Compiler design and i
 * Automatically download begins after clicking on the link. Ensure both files are downloaded in same folder.
 * Keep default setting for set up
 * VSCode Extentions are available for flex : Bison by luniclynx, Flex by luniclynx. Also available is Yash by daohong emilio
+  ## Running the code
 * Clone the repo or paste the neccessary code in VS code.
 * Save the file with **.l** extension
 * Now run command prompt through **cmd** command in windows.
@@ -20,4 +21,5 @@ gcc lex.yy.c
 ```
 a.exe
 ```
+If you find my repository helpful, please star⭐ it 🌟.
 
