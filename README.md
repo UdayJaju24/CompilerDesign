@@ -11,9 +11,9 @@ This repository aims to build fundamental understanding of Compiler design and i
 * Clone the repo or paste the neccessary code in VS code.
 * Save the file with **.l** extension
 * Now run command prompt through **cmd** command in windows.
-* For example if file name is saved as **lex.l**
+* For example if file name is saved as **file.l**
 ```
-flex lex.l 
+flex file.l 
 ```
 ```
 gcc lex.yy.c
