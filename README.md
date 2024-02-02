@@ -21,5 +21,9 @@ gcc lex.yy.c
 ```
 a.exe
 ```
-If you find my repository helpful, please star⭐ it 🌟.
+## License
+This project is licensed under [License](docs/LICENSE.md)
+
+
+- If you find my repository helpful, please star⭐ it 🌟.
 
