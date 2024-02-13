@@ -27,5 +27,4 @@ int main() {
     printf("Enter your C program:\n");
     yylex();
     return 0;
-}
- 
+} 
